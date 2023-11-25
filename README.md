@@ -1,6 +1,6 @@
 # Script Auto Backups
 ### What's new ?
-1. I added colourful text and that's ti :) 
+1. I added colourful text and that's it =) 
 ---
 ### How to use?
 1. Install exe file from folder 'output' or download the code
